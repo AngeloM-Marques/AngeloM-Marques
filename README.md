@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm an aspiring UX/UI designer with a background in Graphic Design, looking for new opportunities for personal and professional growth. I’m looking forward to learning a lot more. 
+
+My graphic design background has helped me acquire an acute sense of aesthetics, for instance, it gave me an understanding of color theory and typography have enabled me to select harmonious color palettes and typefaces that not only enhance a design's visual appeal but also contribute to its usability and readability. This is why I believe my journey from graphic design to UX/UI design has equipped me with a unique perspective and a versatile skill set.
+
+My skill set includes disciplines like Branding | Logo Design | Image Manipulation | Visual Communication | Typography | Interaction Design | Wireframing | Agile | User Research | User Testing | Information Architecture.
+
+I have a strong foundation in tools like Adobe Photoshop | Adobe Illustrator | Adobe Indesign | Adobe Acrobat | Figma | Figjam | Jira. 
+I have a basic understanding of Cinema 4D and intend to acquaint myself with After Effects and HTML - CSS.
 <!--
 **AngeloM-Marques/AngeloM-Marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
